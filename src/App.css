@@ -1,0 +1,39 @@
+.header {
+  text-align: center;
+}
+
+.btn {
+  border-radius: 0%;
+}
+
+.nav-link.active {
+  color: rgb(67 188 179);
+} 
+
+#judul>h1 {
+  color: #5abfb6;
+  font-weight: bold;
+}
+
+#cari-tambah-btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: row;
+  gap: .5rem!important;
+}
+
+@media (max-width:576px){
+  div.card {
+    width: 100%!important;
+  }
+  #foto-cards {
+    display: flex!important;
+  }
+  #cari-tambah-btn {
+    display: grid!important;
+    gap: .5rem!important;
+    align-items: center;
+    justify-content: stretch; 
+  }
+}

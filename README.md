@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using javascript and css framework react-bootstrap </br>
 Users data from https://randomuser.me/api/?results=28
 <ul>
   <li>fetcth users random</li>

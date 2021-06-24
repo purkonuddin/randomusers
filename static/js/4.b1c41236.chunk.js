@@ -1,0 +1,2 @@
+(this.webpackJsonprandomusers=this.webpackJsonprandomusers||[]).push([[4],{117:function(s,e,n){"use strict";n.r(e);n(0);var r=n(2);e.default=function(s){return Object(r.jsxs)("h1",{children:["Welcome to ",s.name]})}}}]);
+//# sourceMappingURL=4.b1c41236.chunk.js.map

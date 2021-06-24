@@ -1,0 +1,1 @@
+{"version":3,"sources":["component/others.js"],"names":["Others","props"],"mappings":"4GAAA,uBAQeA,UANf,SAAgBC,GACZ,OACA","file":"static/js/5.112b8b17.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nfunction Others(props) {\r\n    return(\r\n    <h1>Welcome to Others</h1>\r\n    )\r\n};\r\n\r\nexport default Others;\r\n"],"sourceRoot":""}

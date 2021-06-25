@@ -13,7 +13,7 @@ Users data from https://randomuser.me/api/?results=28
 ![https://www.loom.com/share/aa1e8d5e1c1d4545b245293f1e4831c1] loom
 
 ## Realese and Deployment
-
-...
-
+<a href="http://localhost:8001">
+  https://img.shields.io/badge/http%3A%2F%2F54.236.193.171%3A4441-gadjian-green
+</a> 
  
